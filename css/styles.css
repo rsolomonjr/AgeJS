@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald');
+
+* {
+	font-family: 'Oswald', sans-serif;
+	font-size: 18px; 
+}
+
+h2, input{
+	text-transform: uppercase;
+}
+
+.message{
+	font-style: italic;
+}
