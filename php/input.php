@@ -2,8 +2,8 @@
 <html>
 <head>
 	<title>JS &amp; PHP Project Project</title>
-	<link rel="stylesheet" type="text/css" href="../css/styles.css"> <!-- call to stylesheet --> 
-	
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" type="text/css" href="../css/styles.css"> <!-- main stylesheet --> 
 </head>
 <body>
 	<?php
